@@ -1,0 +1,9 @@
+{
+    "name":"job-board-app-server",
+    "private":true,
+    "license":"MIT",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon server.js"
+    }
+}
